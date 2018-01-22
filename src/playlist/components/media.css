@@ -1,0 +1,14 @@
+.card {
+    cursor: pointer;
+    margin: 17px;
+    display: inline-block;
+    width: 260px;
+    vertical-align: top;
+    border: 1px solid #E6E6E6;
+    color: black;
+}
+
+.card-content h3{
+    font-size: 20px;
+    opacity: .8;
+}
