@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="256a8738-cb2f-49bb-acdf-6a87eba8f37d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/api.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/playlist/components/media.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/playlist/components/media.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/playlist/components/play.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/playlist/components/playlist.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,11 +30,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="play.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="play.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/playlist/components/play.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -77,6 +84,7 @@
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/src/playlist/components/playlist.js" />
         <option value="$PROJECT_DIR$/src/playlist/components/media.js" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -99,7 +107,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="942" />
     <option name="width" value="986" />
     <option name="height" value="1050" />
@@ -208,15 +216,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516621943250</updated>
-      <workItem from="1516621944622" duration="13601000" />
+      <workItem from="1516621944622" duration="14244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13601000" />
+    <option name="totallyTimeSpent" value="14244000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="942" y="0" width="986" height="1050" extended-state="0" />
+    <frame x="942" y="0" width="986" height="1050" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19938016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -329,11 +337,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -341,6 +352,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
