@@ -4,7 +4,7 @@ import data from '../api.json'
 // Components
 import Home from '../pages/containers/home'
 
-const app = document.getElementById('app')
+const home = document.getElementById('home-container')
 
-render(<Home data={data}/>, app)
+render(<Home data={data}/>, home)
 

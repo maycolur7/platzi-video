@@ -4,6 +4,8 @@
     margin: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     overflow: hidden;
+    display: inline-block;
+    cursor: pointer;
 }
 
 .card-img-top {
@@ -20,4 +22,10 @@
 
 .card-text {
     font-size: 12px;
+}
+
+.container {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
 }

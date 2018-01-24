@@ -4,10 +4,10 @@ import Media from './media'
 
  function Playlist (props) {
   return (
-      <div className="row">
+      <div className="container">
         {
           props.playlist.map((item) => {
-            return <Media {...item} key={item.id} />
+            return <Media handleClick={props.handleOpenModal} {...item} key={item.id} />
           })
         }
       </div>
