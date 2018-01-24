@@ -17,15 +17,10 @@ class Media extends React.PureComponent{
   render() {
     return (
       <div className="card" onClick={this.handleClick}>
-        <div className="card-content">
-          <img
-            src={this.props.cover}
-            alt=""
-            width={259}
-            height={159}
-          />
-          <h3 className="title">{this.props.title}</h3>
-          <p>{this.props.author}</p>
+          <img className="card-img-top" src={this.props.cover}/>
+          <div className="card-body">
+            <h6 className="card-title">{this.props.title}</h6>
+            <p className="card-text">{this.props.author}</p>
         </div>
       </div>
     )
